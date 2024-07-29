@@ -16,3 +16,9 @@ The specific steps for collecting the data for NY are as follows:
 -	Find a past case and click on it.
 -	Download all documents under the “Filed Documents” tab and download all public comments for that case. Note that, for NYS, it also has a party list  available in each of the rate cases, and we are also collecting that information.
 -	Repeat these steps to collect all past cases for each of the seven IOUs in New York.
+
+
+
+
+
+
